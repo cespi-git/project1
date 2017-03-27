@@ -1,0 +1,11 @@
+  <style>
+h1, h2    {color: #fff; font-style: italic;}
+header p, #id    {text-indent: 30px; text-align: center; margin: 0px;}
+.content {color: black; font-family: Roboto; font-style: normal;} 
+.autor, .zdroj {color: black; font-style: normal;} a:link {color: red;}
+.zanr {color: black; font-style: normal; font-weight: bold; font-size: 200%}
+footer {color: black; font-style: normal; font-weight: bold; font-size: 100%}
+body {
+background-color: #FFFFFF
+}
+  </style>
